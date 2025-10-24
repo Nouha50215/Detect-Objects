@@ -1,0 +1,1 @@
+# Optional helper functions (OpenCV, base64, etc.)
