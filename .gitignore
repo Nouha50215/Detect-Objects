@@ -1,1 +1,14 @@
 # Ignore venv, pycache, etc.
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+env/
+.venv/
+build/
+dist/
