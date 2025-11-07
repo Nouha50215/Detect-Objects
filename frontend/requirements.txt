@@ -1,1 +1,5 @@
 # Streamlit dependencies
+
+streamlit
+requests
+pillow
